@@ -1,1 +1,2 @@
-# Portfolio_N-Kong
+# Portfolio_N-Kong  
+[หน้าปก](หน้าปก.md)
